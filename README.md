@@ -145,4 +145,8 @@ const styles = StyleSheet.create({
 });
 ```
 
+![按钮点击前](https://raw.githubusercontent.com/Urwateryi/MarkDownPic/master/mobxdemo/1.jpg)
+
+![按钮点击后](https://raw.githubusercontent.com/Urwateryi/MarkDownPic/master/mobxdemo/2.jpg)
+
 [传送门](https://github.com/Urwateryi/MobxDemo.git)
