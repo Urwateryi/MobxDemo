@@ -1,4 +1,3 @@
-# MobxDemo
 ## 安装mobx组件
 
 
